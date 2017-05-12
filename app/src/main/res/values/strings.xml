@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TourDeZagreb</string>
+
+    <string name="squares">Squares</string>
+    <string name="lakes">Lakes</string>
+    <string name="events">Events</string>
+    <string name="other">Other</string>
+
+    <string name="dzamija">Trg zrtava fasizma</string>
+    <string name="bana">Trg bana Josipa Jelacica</string>
+    <string name="tomislav">Trg kralja Tomislava</string>
+    <string name="cibona">Cibonin toranj</string>
+    <string name="jarun">Sportsko rekreacijski centar Jarun</string>
+    <string name="bundek">Bundek</string>
+    <string name="arena">Arena Zagreb</string>
+    <string name="maksimir">Park Maksimir</string>
+    <string name="sljeme">Snow Queen Trophy</string>
+    <string name="inmusic">InMusic Festival</string>
+</resources>
