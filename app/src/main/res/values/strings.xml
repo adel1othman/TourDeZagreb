@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">TourDeZagreb</string>
+    <string name="title">Tour de Zagreb</string>
 
     <string name="squares">Squares</string>
     <string name="lakes">Lakes</string>
@@ -16,4 +17,15 @@
     <string name="maksimir">Park Maksimir</string>
     <string name="sljeme">Snow Queen Trophy</string>
     <string name="inmusic">InMusic Festival</string>
+
+    <string name="dzLocation">Trg žrtava fašizma 10000, Zagreb</string>
+    <string name="banaLocation">Trg bana Josipa Jelačića 10000, Zagreb</string>
+    <string name="tomislavLocation">Trg kralja Tomislava 10000, Zagreb</string>
+    <string name="cibonaLocation">Cibona Tower 10000, Zagreb</string>
+    <string name="jarunLocation">Jarun 10000, Zagreb</string>
+    <string name="bundekLocation">Bundek 10000, Zagreb</string>
+    <string name="arenaLocation">Ulica Vice Vukova 8, 10000, Zagreb</string>
+    <string name="maksimirLocation">Maksimirski perivoj, 10000, Zagreb</string>
+    <string name="sljemeLocation">Gornja Bistra bb, 10298, Gornja Bistra</string>
+    <string name="inMusicLocation">Jarun 10000, Zagreb</string>
 </resources>
